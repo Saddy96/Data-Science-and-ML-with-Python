@@ -1,5 +1,9 @@
 Day 1 Work with the code
 
+TOPICS COVERED:
+Different Projects to be covered. Intro to Data Science, AI, ML and DL. Data Science Life Cycle and different steps involved in the process. About Python, background of the same and basic programming using Python. Google Colab usage. Explanation of modules to be covered in the course. Explanation of ML, types of ML and various models under ML.
+
+
 Some of the Topics:
 
 ML: A subset of AI. Letting the machines learn using the data collected or making the machines intelligent.
