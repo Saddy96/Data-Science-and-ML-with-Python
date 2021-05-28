@@ -1,0 +1,19 @@
+1. Define Python Pandas
+Python pandas can be used for data analysis, manipulation, accessing, calculation and other processing of data.
+
+2. What Are The Different Types Of Data Structures In Pandas?
+Series - 1D
+Data frame - 2D
+Panel - 3D
+
+3. Define Data frame In Pandas
+Data frames are 2 dimensional and can hold heterogeneous data, formed like a tabular format with rows and columns which are known as axes same like as an excel table data.
+
+4. How Can You Create An Empty Data frame In Pandas?
+using pd.DataFrame()
+
+5. What Are The Most Important Features Of The Pandas Library?
+Different in built data types are provided, one of the highly used type is data frames which is like tabular data of excel. There are other lot of functionality under pandas, like aggregation, accessing the data and other lot functionality. Also Pandas are built on top of Numpy so it holds all the features of Numpy.
+
+6. What Is Groupby Function In Pandas?
+Used to group the specific values based on the data of respective columns.
