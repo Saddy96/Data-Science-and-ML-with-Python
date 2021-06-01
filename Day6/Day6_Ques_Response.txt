@@ -1,0 +1,21 @@
+1. What is Matplotlib?
+A library used for visulatization. Can be used to plots various types of plots like Bar, Pie, Area, etc.
+
+2. Why we need data visualization?
+Helps to better understand the data, easier to grab one's view on the dataset and gain insights on any data set.
+
+3. What do you mean by xlable(), ylable() and title() in Matplotlib?
+xlabel() - Text label for x axis
+ylabel() - Text label for y axis
+title() - Title text for the plot.
+
+4. How to create Legend in Matplotlib?
+while plotting the graphs (plt.plot()) we need to add label and then call plt.legend(), plt.xlabel('Text1'),plt.ylabel('Text2').
+
+5. What do you mean by bar() function, xticks() function, barh()function?
+bar() functions are used to create a bar series plot mostly used for comaprision. 
+xticks() - used for x axis label and related functionality to it like position of the labels.
+barh() - works same as bar whereas the plots are horizontal.
+
+6. what is Histograms?
+Frequency distribution of the variables are shown using the histogram, where different bins are created using their values.
