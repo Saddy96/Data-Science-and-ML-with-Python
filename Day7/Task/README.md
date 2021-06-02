@@ -1,7 +1,5 @@
 Task Folder
 
 
-Same Data has been used. Refer SalaryData.csv
+data added in the repo
 
-
-Data Url: https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression
