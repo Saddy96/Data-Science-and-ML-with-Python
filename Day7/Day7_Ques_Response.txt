@@ -1,0 +1,18 @@
+1. What is Supervised Machine Learning?
+One of the categories of machine learning where models are created using the labeled/target variable, and these models will be used to predict the outcomes correctly.
+
+2. What is Linear Regression?
+When there is only one independent variable, also, the target/dependent variable will be a continuous data type.
+
+3. What does train_test_split function?
+Function available in sklearn (scikit library) used to split the data into training and testing data set based on the ratio passed on.
+
+4. What is test_size and random_state?
+test_size: ratio for the training and testing data split, the value passed will be used for the test, and the remaining will be passed to the training dataset.
+random_state: same data points/rows will be used whenever the model runs for the test and the train data set.
+
+5.
+If the random_state value is not passed, the data for the training and testing will be different whenever we run the program, which as a result, creates different accuracy for the model.
+
+6. What is scikit Learn ?
+scikit learn is an ML library used in python for building the ML models to predict the dependent variable. It provides both supervised and unsupervised ML models. There are various machine learning models under it, such as classification, regression, clustering, etc.
