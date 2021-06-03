@@ -1,0 +1,16 @@
+Data set Url:
+
+https://www.kaggle.com/karthickveerakumar/salary-data-simple-linear-regression
+
+
+1 What is MSE?
+It tells how close the regression line is w.r.t the data points. Squaring up the errors of the dataset where the error is equal to y_pred - y_actual and then summing up all them. It helps to predict the values better if the MSE is smaller.
+
+2 What is gradient descent?
+It is used as the backbone while building the machine learning models. It is used to optimize the model used as much as it can by changing the values of coefficient and intercepts. It gives the value of a and b where the cost/error is the least.
+
+3 What is joblib?
+A Python library used to handle the reusability of the built ml model. Using this library the built model can be saved and can be later used or integrated into other systems. It is highly preferred as compared to pickle if the data set is very large.
+
+4 What is pickle?
+A Python library used to handle the reusability of the built ml model. Stores the model into a byte, used to convert one file type to another so as to store it on other systems. Using this library the built model can be saved and can be later used or integrated into other systems.
