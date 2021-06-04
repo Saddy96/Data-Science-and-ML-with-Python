@@ -1,0 +1,17 @@
+Data set Url:
+Using the Boston Datasets. In-built data in the scikit library.
+
+1 What are the parameters of pandas fillna function?
+Value, method, axis, inplace, limit, and downcast.
+
+2 How does the dropna ( ) function in pandas work?
+dropna() will drop the entire points row-wise with 0,NaN, if we don't pass any params. The functionality can be extended based on the parameters passed on like axis, how, and thres.
+
+3 What is Multi Linear Regression?
+When there is more than 1 independent/feature variable available for the given data sets.
+
+4 How to drop a column in Pandas?
+using dataframe.column(). the column to be dropped has to be passed as a parameter.
+
+5 What does random_number in data split?
+to get the same test and train data every time the program runs using the random_state as param.
