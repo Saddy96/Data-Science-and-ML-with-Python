@@ -1,0 +1,19 @@
+Data set Url:
+https://www.kaggle.com/arshid/iris-flower-dataset
+
+
+1 What is Classification?
+One of the categories under supervised learning where the output data or labeled data are categorical in nature. Different types of classes can be found like bivariate, multi-variate.
+
+2 What is Regression?
+Supervised ML technique to predict the data set with the output variable type as continuous and finding the relationship between the independent variables to the output variable.
+
+3 What is the difference between logistic regression and linear regression?
+Logistic Regression - Predict the output variable with discrete in nature.
+Linear Regression - Predicting the continuous output variable.
+
+4 What is Confusion Matrix in Machine Learning?
+A Table comparison for classification ML helps to analyze the performance and accuracy of the model built.
+
+5 Which is a binary problem in logistic regression?
+A problem with only 2 outcomes for the output variable like yes or no, win or lose, Spam or not Spam, etc.
