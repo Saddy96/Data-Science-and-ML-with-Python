@@ -1,0 +1,29 @@
+1 What is pandas dummy variable?
+One of Pandas functions to convert the categorical data into numerical form. Can be achieved using get_dummies(). It creates different columns based on the no of classes for the categorical columns.
+
+2 What is the difference between OneHotEncoder and Get_dummies?
+Both do the same functionality to convert the categorical to numerical data to be used for models. Both are the same.
+
+3 What is Sklearn LabelEncoder?
+A Sklearn library to convert the categorical to numerical. It creates a unique number for each of the class variables that is categorical. Preferred for ordinal data. 
+
+4 What is the difference between LabelEncoder and Get_dummies?
+LabelEncoder can be used for ordinal data whereas others can be used for nominal.
+
+5 What is unsupervised learning?
+When there is no output variable and the model has to find some pattern in the data and then predict based on that.
+
+6 Where is unsupervised learning used?
+To get the insights of the data and to find some pattern in the data.
+
+7 What is an unsupervised learning example?
+When there is a need to categorize between certain data points by itself without telling it. like categorizing between average, good, excellent employees.
+
+8 What is the difference between supervised and unsupervised learning?
+Supervised learning can only be used for the labeled data whereas unsupervised can be used without having any labeled or output variable.
+
+9 What is meant by K-means clustering?
+One of the clustering techniques under unsupervised learning. Decide the classes based on the centroid.
+
+10 What are the basic steps for K-means clustering?
+Based on the cluster given while building the model the same no of random values will be chosen in the data set. Then these value will be used to calculate the euclidian distance for each point and the least distance will be categorized into the respective categories, then the avg of all the points will be calculated as a new centroid and the process will go on until the average value of centroid reaches the last value of the centroid.
