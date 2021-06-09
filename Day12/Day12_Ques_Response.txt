@@ -1,0 +1,20 @@
+1 What are the most practical applications of k-means?
+Categorizing into various grades based on their grades like academic performance.
+
+2 What is elbow method?
+The method used to find the best-suited value for the no of clusters.
+
+3 How is the elbow method used in clustering?
+The point of an elbow is taken as the k value, the point after which the WCSS values are almost the same.
+
+4 How to plot WCSS against an increasing k?
+The inertia (distance between the points, the respective centroids, and then squaring them) value is calculated for different values of k starting with 1 and then plotted.
+
+5 What is Seaborn used for?
+It is used for data visualization. It has got enhanced features as compared to Matplotlib.
+
+6 What is the difference between Matplotlib and Seaborn?
+Both are used for data visualization, where seaborn has got some extra features as compared to matplotlib and the plotting is easy in seaborn.
+
+7 What is hue in Seaborn plots?
+To differentiate in the color-coding of the plotted chart. 
