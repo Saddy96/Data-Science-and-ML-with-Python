@@ -1,0 +1,11 @@
+1 What is Decision tree in Machine Learning with example?
+One of the algorithms under supervised machine learning. It can be applied to regression as well as classification, mostly preferred for classification. A tree-like structure where each node is represented for a feature and a certain decision is made for the respective feature. 
+
+2 Why Decision tree is used in Machine Learning?
+Can be used for regression or classification. Certain decisions are made for each value and it is easy to implement and the process is faster.
+
+3 What is entropy in decision tree?
+It represents the randomness in data for the respective feature selected. like having the random outcomes for the feature selected. it measures impurity.
+
+4 What is information gain and Gini index?
+Information gain is a measure to calculates the entropy before and after the data is split, which conveys the availability of randomness in the data set. Gini index is measured by subtracting the sum of squared probabilities of each class from one.
