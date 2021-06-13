@@ -1,0 +1,15 @@
+1 What is module in Python with example?
+Collections of various functionalities developed using functions in python. One of the examples of the module in python is Pickle, sys, etc 
+
+2 What is the difference between the module package and library?
+Package: It holds the collections of various modules under it.
+Library: Collection of packages.
+
+3 How do I create a Python module?
+Create a different function and then save it as a .py file, then copy it to the source repository.
+
+4 What is class and object in Python?
+A Class is a template or the blueprint for a group of entities. whereas the object is the instance of the class which represents an entity.
+
+5 What is Self In __ init __ Python?
+Default initialization of the class is achieved or it is a constructor that is used to initialize the object.
