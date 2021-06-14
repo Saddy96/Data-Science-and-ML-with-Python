@@ -1,0 +1,20 @@
+1 What is support vector machines with example?
+Supervised machine learning which can be applied to classification or regression. It can also be used for the data which are not linearly separable. An e.g. can be differentiating between cat and dog based on certain features.
+
+2 What does Hyperplane in SVM mean?
+The plane classifies the data for n-dimensional which can't be separated linearly.
+
+3 Write some Support Vector Machine (SVM) Usecases
+Face detection, Image classification, Handwriting recognition, and text classification are some of the use cases.
+
+4 What is kernel in SVC?
+Kernel converts the two-dimensional data to high dimension data (n-dimensional).
+
+5 What is List comprehension?
+A function used to shorten the code and the process and it is faster.
+
+6 When do you need list comprehension in Python?
+To shorten the basic functionality of function and a conditional statement which is faster in process.
+
+7 How does the condition work in Python list comprehension?
+condition is used to filter the values. It checks the condition for each value inside the for loop.
