@@ -1,0 +1,17 @@
+1 What is a Feature?
+Individual columns representing the same characteristics like Height, weight, speed, etc. In a dataset, a column represents a feature.
+
+2 What is feature engineering?
+Making the data ready to use in the model building.
+
+3 What is an outlier in machine learning?
+The deviation from the actual set of data or shows the value which is beyond the threshold values.
+
+4. How does machine learning deal with outliers?
+It takes the outliers as the normal data and uses it, but it can be one reason for the biasness or the model error after building the models. Different methods are performed to analyze it like univariate, multivariate.
+
+5 What is a heat map used for?
+Graphical representation to find the relation between the features inside the dataset.
+
+6 What is the Z score in data science?
+It tells about the distance between the data points from the mean value.
