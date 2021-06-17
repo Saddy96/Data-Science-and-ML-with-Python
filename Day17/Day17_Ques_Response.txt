@@ -1,0 +1,22 @@
+Datset Url: https://www.kaggle.com/krpiku/haberman.csv
+
+
+1 What is Exploratory Data Analysis (EDA)?
+A technique used to explore or analyze the data set majorly using methods like visualization, statistical. It helps to understand the data more clearly, helps to find any pattern, detect outliers or any other anomalies, or finding the relation among the variables.
+
+2 Why do we need exploratory data analysis ( EDA )?
+To get or understand the underlying info about the data. It helps to find the pattern, if any, find outliers and take action.
+
+3 What are the steps in exploratory data analysis ( EDA )?
+- Writing description of the dataset
+- Cleaning the dataset; handling the missing values, including handling the outliers.
+- Finding the relationship among the variables
+
+4 What Is Bivariate Analysis?
+Analysis of two variables or finding the relation between those two variables.
+
+5 What Is Univariate Analysis?
+Analysis of single variables or exploring them. 
+
+6 What are box plots in seaborn?
+A plot in seaborn to find the distribution of data among the selected variable. It also helps to find the outliers for the specific variable.
