@@ -1,0 +1,27 @@
+1 What is K-fold cross-validation?
+It is used to find the performance of different ML methods. Finding the best algorithm which can be used on the given data set by finding the average accuracy of each model.
+
+2 How is K-fold cross-validation implemented?
+Depending on the k-fold value, the data set are divided into n categories, and 1 part of each data category is used for validation; then model accuracy is applied on the remaining part of each category, and then the average value of each category is calculated, and the maximum accuracy helps to find the best-suited model.
+
+3 What is K Nearest Neighbor machine learning?
+Supervised machine learning can be applied to both regression and classification mostly preferred for classification-based use cases. It stores the train data and then finds the similarities with the new data passed.
+
+4 Why KNN is called lazy?
+It doesn't require training the data, i.e.; there aren't any training phases for this model. So the main process happens when the new dataset is passed, which takes time to find the similarities.
+
+5 What is web scraping?
+A process to get the data from the website and return these data as structured data can be used to analyze these data further. Mostly used in R&D.
+
+6 Why python is good for web scraping?
+Due to the enriched number of python libraries into it and the easiness of the language.
+
+7 Why is Web scraping used?
+Helps us to get the required structured data from the website(unstructured data) to use for the R&D purpose or any other analysis.
+
+8 How do you scrape data from a website?
+Different steps for the process:
+- find the URL from where data will be extracted.
+- analyzing or inspecting the page for the required data.
+- find the required data on the website.
+The different libraries like selenium, beautiful soup, pandas, etc. like can be used for the same.
