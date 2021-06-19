@@ -1,0 +1,22 @@
+1 What is a naive Bayes classifier in machine learning?
+A supervised ml model based on Bayes theorem. It can be implemented on both regression and classification, But it is highly used to predict classification problems.
+
+2 What are the different types of naive Bayes classifier?
+- Gaussian
+- Mutli-nomial
+- Bernoulli 
+
+3 Which type of naive Bayes classifier is best suited for document classification problems?
+Multinomial classification.
+
+4. How do you use naive Bayes?
+Depending on the problem statement, we can choose the classifier like spam identification, text analytics, etc. It uses the Bayes theorem for prediction.
+
+5. Why do we use a naive Bayes classifier?
+An easy and effective way to predict the classification problems and the performance of these models will be better than others and requires less training data.
+
+6 What is CountVectorizer in machine learning?
+Creates a feature vector of each sentence and assigns the numerical values based on the occurrence.
+
+7 What is Tfidftransformer used for?
+Used to compute the Inverse Document Frequency (IDF) values followed by the computation of Tf-IDF scores.
