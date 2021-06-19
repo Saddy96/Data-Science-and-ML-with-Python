@@ -2,6 +2,8 @@
 Dataset:
 
 Task 15: https://drive.google.com/file/d/1wr_soCWCZEOOzM9mJxYoTm9kySmAZAM4/view
+
+OR
           https://www.kaggle.com/uciml/sms-spam-collection-dataset
           
           
