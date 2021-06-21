@@ -1,0 +1,11 @@
+1 What is Web scraping used for?
+Helps us to get the required structured data from the website(unstructured data) to use for the R&D purpose or any other analysis.
+
+2. How do I use BeautifulSoup for web scraping?
+Using soup.find or soup.findall, which helps us parse the entire data set fetched.
+
+3 What’s the best programming language for web scraping?
+Python can be used as it easy and has got abundant libraries required for all these processes.
+
+4 How does Deep Learning differ from Machine Learning?
+Machine learning is used to build certain mathematical programs using different models. In contrast, deep learning is a subset of ML where neural networks are used, Mimicking human brains and finding a different hidden pattern to act like humans.
