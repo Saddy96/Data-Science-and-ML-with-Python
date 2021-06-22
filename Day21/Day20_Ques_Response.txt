@@ -1,0 +1,20 @@
+1 What is flask framework used for?
+A Python web framework which is used for web application development and deployment. It is used to build a lightweight application.
+
+2 How does a flask framework work?
+It uses a web framework built on python for any web application development.
+
+3 What is WSGI in flask?
+It acts like a connector or interface, which helps the web application to communicate to a web server.
+
+4 What is Jinja2 in flask?
+A template in python that is used to create an HTML or XML file to be used for the web applications.
+
+5 What is a static folder in flask?
+A folder or directory to store all the static files related to the web application such as images, css, etc.
+
+6 How do I use a template in flask?
+"templates" folder holds all the templates created for the application like HTML or jinja2 files.
+
+7 What is Route () in flask?
+It is used to point the user, which page to be accessed. It connects the URL to the function created.
