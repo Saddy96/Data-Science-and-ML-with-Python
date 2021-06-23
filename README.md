@@ -3,6 +3,10 @@ Repo for the Data Science and ML with python Training
 
 It includes various algorithm under Supervised and Unsupervised ML.
 
+***Day 14 - Classes in Python and developing custom modules***
+
+***Day 15 - SVM (Support Vector Machine) - Support Vector Classifier***
+
 ***Day 16 - Handling Outliers***
 
 ***Day 17 - EDA (Exploratory Data Analysis)***
