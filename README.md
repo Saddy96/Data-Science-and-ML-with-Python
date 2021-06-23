@@ -3,6 +3,14 @@ Repo for the Data Science and ML with python Training
 
 It includes various algorithm under Supervised and Unsupervised ML.
 
+***Day 10 - Implementing Logistic Regression and performance check***
+
+***Day 11 - Data set Encoding for the Categorical Data and Intro to unsupervised learning***
+
+***Day 12 - Implementation of K-means algorithm***
+
+***Day 13 - Decision tree algorithm, mathematical terms like entropy, Gini index, and info gain***
+
 ***Day 14 - Classes in Python and developing custom modules***
 
 ***Day 15 - SVM (Support Vector Machine) - Support Vector Classifier***
