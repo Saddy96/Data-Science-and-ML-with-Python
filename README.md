@@ -3,6 +3,10 @@ Repo for the Data Science and ML with python Training
 
 It includes various algorithm under Supervised and Unsupervised ML.
 
+***Day 16 - Handling Outliers***
+
+***Day 17 - EDA (Exploratory Data Analysis)***
+
 ***Day 18 - KNN and K-Fold model building Implementation***
 
 ***Day 19 - Implementation of Naive Bayes Classifier***
