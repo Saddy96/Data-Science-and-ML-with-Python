@@ -1,0 +1,21 @@
+1 What is the difference between Render_template and redirect?
+Render_template is used to call or link the templates file based on the jinja2.
+Redirect: It is used to direct to different pages or API using the URL.
+
+2 What is Url_for in flask?
+It links one file path to other files or links one function to another. It helps to reduce the manual rework on each developed page.
+
+3. Is flask a Web server?
+Flask is a web framework that has the feature of a web server in it.
+
+4 How to use CSS in Python flask?
+Creating a .css file in static for each tag as required inside the file. This file will then be used on the other page using render_template.
+
+5. What are the delimiters used in the Jinja2 template?
+{% ... %} for Statements.
+{{ ... }} for Expressions to print to the template output.
+{# ... #} for Comments not included in the template output.
+# ... ## for Line Statements.
+
+6. How do you create a variable in Jinja?
+Using the delimiters { % % }which is used for python statements. set will be used inside the delimiter for the var.
