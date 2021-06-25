@@ -29,4 +29,4 @@ It includes various algorithm under Supervised and Unsupervised ML.
 
 ***Day 22 - Basic web application using Flask - Url_for and rendering HTML pages.***
 
-***Day 23 - Basic application using flask, building dynamic url, rendering html & CSS pages.***
+***Day 23 - End to end development of a web application & ML model built using flask and then deployment of the same on the Heroku cloud platform using Github.***
