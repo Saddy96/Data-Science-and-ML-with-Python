@@ -1,0 +1,17 @@
+1 What is model deployment in ML?
+It means to deploy the model with UI so that it is accessible publically and can be accessed from anywhere without a specific server. It is majorly used in networks of teams where different developers develop the modules.
+
+2. Why do people deploy ML models?
+To reduce the rework or for the reusability of the code.
+
+3. How does Heroku deploy a machine learning model?
+Using Github, Heroku Git, and Container registry.
+
+4 What is Heroku Gunicorn?
+Gunicorn is a WSGI server that will be used to run the python application instance.
+
+5 What is Procfile?
+It is a command which will run on the Heroku platform. It contains info like application type, gunicorn, and file name.
+
+6. How do I deploy the flask app to Heroku?
+Write all the code required for the web UI and ML models (including the ml.pkl file). Then create Procfile containing the command, requirement.txt file. Then choose the method for the code deployment on Heroku. Add all the files in Github as a repository and then link the Github account to Heroku account. It will generate a URL for accessing the UI.
