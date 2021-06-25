@@ -27,6 +27,6 @@ It includes various algorithm under Supervised and Unsupervised ML.
 
 ***Day 21 - Basic web application using Flask.***
 
-***Day 22 - Basic web application using Flask.***
+***Day 22 - Basic web application using Flask - Url_for and rendering HTML pages.***
 
-***Day 23 - Basic web application using Flask.***
+***Day 23 - Basic application using flask, building dynamic url, rendering html & CSS pages.***
