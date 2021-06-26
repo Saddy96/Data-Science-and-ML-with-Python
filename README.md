@@ -3,25 +3,29 @@ Repo for the Data Science and ML with python Training
 
 It includes various algorithm under Supervised and Unsupervised ML.
 
-***Day 10 - Implementing Logistic Regression and performance check***
+***Day 8 - Gradient Descent, optimization of the regression or cost function, Saving Model using Pickle and joblib.***
 
-***Day 11 - Data set Encoding for the Categorical Data and Intro to unsupervised learning***
+***Day 9 - Multiple Linear Regression using Boston Data set.***
 
-***Day 12 - Implementation of K-means algorithm***
+***Day 10 - Implementing Logistic Regression and performance check.***
 
-***Day 13 - Decision tree algorithm, mathematical terms like entropy, Gini index, and info gain***
+***Day 11 - Data set Encoding for the Categorical Data and Intro to unsupervised learning.***
 
-***Day 14 - Classes in Python and developing custom modules***
+***Day 12 - Implementation of K-means algorithm.***
 
-***Day 15 - SVM (Support Vector Machine) - Support Vector Classifier***
+***Day 13 - Decision tree algorithm, mathematical terms like entropy, Gini index, and info gain.***
 
-***Day 16 - Handling Outliers***
+***Day 14 - Classes in Python and developing custom modules.***
 
-***Day 17 - EDA (Exploratory Data Analysis)***
+***Day 15 - SVM (Support Vector Machine) - Support Vector Classifier.***
 
-***Day 18 - KNN and K-Fold model building Implementation***
+***Day 16 - Handling Outliers.***
 
-***Day 19 - Implementation of Naive Bayes Classifier***
+***Day 17 - EDA (Exploratory Data Analysis).***
+
+***Day 18 - KNN and K-Fold model building Implementation.***
+
+***Day 19 - Implementation of Naive Bayes Classifier.***
 
 ***Day 20 - WEB SCRAPPING IMPLEMENTATION on Flipkart Url.***
 
