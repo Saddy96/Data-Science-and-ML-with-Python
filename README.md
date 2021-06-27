@@ -3,6 +3,8 @@ Repo for the Data Science and ML with python Training
 
 It includes various algorithm under Supervised and Unsupervised ML.
 
+***Day 7 - Intro to ML models, Built a Linear Regression Model.***
+
 ***Day 8 - Gradient Descent, optimization of the regression or cost function, Saving Model using Pickle and joblib.***
 
 ***Day 9 - Multiple Linear Regression using Boston Data set.***
