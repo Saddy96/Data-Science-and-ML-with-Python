@@ -1,0 +1,17 @@
+1 What is a Graphical User Interface (GUI)?
+A way to let humans interact with the required built application. It gives easy access to individuals to run the application without knowing the backend application.
+
+2 What are different Python Libraries to create GUIs?
+Tkinter, Kivy, PythonQT, wxPython
+
+3 What is Tkinter?
+One of the python libraries to create GUIs. This library is easy to use and implement.
+
+4 What is Tkinter Widgets?
+Event-based python object, which is used for building the application. Some of the, e.g., of Tkinter widgets are Textbox, label, slider, numeric entry, Combobox, etc.
+
+5. How to create a message box with Tkinter in Python?
+messagebox.showinfo("", ""), Different other options are there depending on the type of message.
+
+6 Where do I find the Combobox widget In Tkinter?
+It comes under ttk module. First, we need to create a Combobox, and then we have to pass the values which will be there in the combo box.
