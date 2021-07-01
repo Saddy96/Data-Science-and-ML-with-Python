@@ -1,0 +1,11 @@
+1 How do you make an end-to-end machine learning project?
+Different steps involved: Problem Identification, Data Gathering, Data Preparation, EDA, Feature Engineering, Feature importance, Fitting and Evaluating different models, saving the model, and then final deployment. 
+
+2 What is feature importance in a decision tree?
+To find which all features are critical/important for the models.
+
+3. How do you deploy an ML project?
+By creating the required file for the Heroku platform, the required files are procfile, model, requirements file, web UI file, and then deploying it on the cloud.
+
+4. Write your machine learning Project ideas.
+Stock prediction, HR analytics, predicts the price of cryptocurrencies (How the crypto will behave - including time series analysis), predicting the failures of aero parts while the airplane is in use. 
