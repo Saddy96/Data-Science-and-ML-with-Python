@@ -1,0 +1,17 @@
+1 What are the Hyperparameters in machine learning?
+Hyperparameters are used to control or improve the models. These are the parameters of the models. It varies from model to model. Each model will have its own parameter. 
+
+2 Why Hyperparameter tuning is important?
+It helps find the best value of all the parameters of the respective model to improve the accuracy.
+
+3 Which method is used for Hyperparameter tuning?
+There are many methods for model tuning. Some of them are GridSearchCV, RandomSearchCV, K-Fold, etc.
+
+4 What is the difference between GridSearchCV and RandomSearchCV?
+Both are used to tune the model to improve the accuracy. The only difference is that the no of parameters combination will be fixed (n_iter), whereas, in GridSearchCV, it varies depending on the no of parameters. GridSearch will try all the combinations of parameters.
+
+5 How do you define a random forest classifier?
+The Random forest classifier is a set of decision trees (DT) from a randomly selected subset of the training set. Then the votes are collected from different decision trees to decide the final prediction.
+
+6 Why do we use a random forest classifier?
+A random forest classifier is used in classification to prevent the overfitting of the model and to know the importance of the input features.
