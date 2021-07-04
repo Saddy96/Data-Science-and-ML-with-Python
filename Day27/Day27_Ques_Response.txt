@@ -1,0 +1,14 @@
+1 What is Distplot Seaborn?
+Creates a histogram for the given dataset with the data distribution for the respective variable (density of the variable). It uses matplotlib and python modules.
+
+2 What is PCA in machine learning?
+Helps to reduce the number of features for the given data set. It gives only the important parameters for the model.
+
+3. How do you reverse the Sklearn scale?
+Inverse_transform()
+
+4 What is customer segmentation in machine learning?
+Dividing the customer into groups based on the common features.
+
+5. How is segmentation done in machine learning?
+Using k-means and hierarchical clustering.
