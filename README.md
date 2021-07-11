@@ -38,3 +38,7 @@ It includes various algorithm under Supervised and Unsupervised ML.
 ***Day 23 - End to end development of a web application & ML model built using flask and then deployment of the same on the Heroku cloud platform using Github.***
 
 ***Day 24 - GUI and creating GUI using Tkinter, Usecase - Calculator.***
+
+***Day 25 - End-to-End project on car data set using various ML techniques like Linear regression, decision tree, random forest.***
+
+***Day 26 - Random Forest Algorithm and Hyperparameter tuning methods like GridSearchCV and Randomized SearchCV.***
